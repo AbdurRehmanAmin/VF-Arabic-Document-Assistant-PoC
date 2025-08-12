@@ -3,6 +3,8 @@
 
 A sophisticated AI-powered document analysis system that processes Arabic and English documents using advanced retrieval-augmented generation (RAG) technology. Built specifically for Arabic speakers with full RTL support and cultural context.
 
+*See the demo here: https://drive.google.com/file/d/1kl-bn4R6C5t60eiI-9cq3BStUTVfttV7/view?usp=drive_link*
+
 ## 🌟 Features
 
 - **📄 Multi-format Support**: PDF, DOCX, and TXT files
