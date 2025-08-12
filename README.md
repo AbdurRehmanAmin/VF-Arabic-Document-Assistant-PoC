@@ -16,7 +16,7 @@ A sophisticated AI-powered document analysis system that processes Arabic and En
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](https://via.placeholder.com/800x500/f0f0f0/333333?text=Architecture+Diagram)
+![Architecture Diagram](System Architecture.png)
 
 The system follows a modular RAG (Retrieval-Augmented Generation) architecture:
 
